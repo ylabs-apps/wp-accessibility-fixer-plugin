@@ -1,0 +1,29 @@
+{
+  "name": "wp-accessibility-fixer",
+  "displayName": "WP Accessibility Fixer",
+  "version": "1.0.0",
+  "description": "Find and fix supported accessibility issues on your WordPress site: image alt text, headings and link text. Every fix is previewed and can be undone.",
+  "author": {
+    "name": "WP Accessibility Fixer"
+  },
+  "license": "MIT",
+  "keywords": [
+    "wordpress",
+    "accessibility",
+    "a11y",
+    "alt text",
+    "wcag",
+    "ada",
+    "eaa",
+    "headings",
+    "link text",
+    "accessibility checker"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "repository": "https://github.com/ylabs-apps/wp-accessibility-fixer-plugin",
+  "homepage": "https://www.wpaccessibilityfixer.com/",
+  "privacyPolicyUrl": "https://www.wpaccessibilityfixer.com/privacy/",
+  "termsOfServiceUrl": "https://www.wpaccessibilityfixer.com/terms/",
+  "supportUrl": "https://www.wpaccessibilityfixer.com/contact/",
+  "documentationUrl": "https://www.wpaccessibilityfixer.com/connect/"
+}
