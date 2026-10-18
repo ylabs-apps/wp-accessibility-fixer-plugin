@@ -1,6 +1,6 @@
 ---
 name: fix-wordpress-accessibility
-description: Check and fix accessibility issues on a WordPress site. Use when the user asks for an accessibility check or audit of their WordPress site, wants to add missing image alt text, fix heading order, replace vague link text like "click here", or asks about WCAG, ADA or European Accessibility Act (EAA) issues on WordPress.
+description: Check and fix accessibility problems on the user's WordPress site. Use whenever the user asks for an accessibility check, audit or scan of a WordPress website, wants to add missing image alt text, fix heading structure, replace vague links like "click here" or "read more", make their site more usable for screen readers, or worries about WCAG, ADA, the European Accessibility Act (EAA) or accessibility complaints for a WordPress site.
 ---
 
 # Fix WordPress accessibility issues

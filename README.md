@@ -1,6 +1,6 @@
-# WP Accessibility Fixer
+# WP Accessibility Fixer — Accessibility Checker for WordPress
 
-Find and fix supported accessibility issues on your WordPress site: image alt text, headings and link text. Every fix is previewed and can be undone.
+Check your WordPress site for accessibility problems and fix them from Claude: missing image alt text, wrong heading order and vague link text. Every fix is previewed first and can be undone.
 
 ## Use it
 
