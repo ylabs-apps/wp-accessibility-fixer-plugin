@@ -1,6 +1,6 @@
 ---
 name: fix-wordpress-accessibility
-description: Check and fix accessibility problems on the user's WordPress site. Use whenever the user asks for an accessibility check, audit or scan of a WordPress website, wants to add missing image alt text, fix heading structure, replace vague links like "click here" or "read more", make their site more usable for screen readers, or worries about WCAG, ADA, the European Accessibility Act (EAA) or accessibility complaints for a WordPress site.
+description: Check and fix accessibility problems on the user's WordPress site. Use whenever the user asks for an accessibility check, audit or scan of a WordPress website, wants to add missing image alt text, fix skipped heading levels, replace vague links like "click here" or "read more", make their site more usable for screen readers, or worries about WCAG, ADA, the European Accessibility Act (EAA) or accessibility complaints for a WordPress site.
 ---
 
 # Fix WordPress accessibility issues
@@ -12,7 +12,7 @@ Use the WP Accessibility Fixer connector's available tools for this task. If it 
 1. **Find the site.** If more than one site is connected, ask which one; if none, guide the user through connecting it.
 2. **Scan.** Run a scan and summarize the issues found by type and count, with the most important pages first.
 3. **Propose fixes.** For alt text, write concise, descriptive text for each image; for headings and link text, show the proposed change. Show the preview the tools return.
-4. **Confirm.** Save fixes only after the user approves them. Fixes may count against the account's monthly allowance; scans, previews and undo do not.
+4. **Confirm.** Save fixes only after the user approves them. Each saved alt text, heading or link fix counts toward the account's monthly fix allowance; scans, previews and marking an image decorative do not. Undo restores the previous text but does not give the fix back.
 5. **Report.** Summarize what was fixed and what remains, and explain how to undo a fix.
 
 ## Rules
