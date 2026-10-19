@@ -1,6 +1,6 @@
 {
   "name": "wp-accessibility-fixer",
-  "displayName": "WP Accessibility Fixer — Check & fix WCAG",
+  "displayName": "WP Accessibility Fixer — Make your site accessible",
   "version": "1.0.0",
   "description": "Check your WordPress site for accessibility problems and fix them from Claude: missing image alt text, wrong heading order and vague link text. Every fix is previewed first and can be undone.",
   "author": {
@@ -27,7 +27,9 @@
     "accessible website",
     "ada",
     "alt text generator",
-    "accessibility fixer"
+    "accessibility fixer",
+    "make website accessible",
+    "accessibility for wordpress"
   ],
   "icon": ".claude-plugin/icon.png",
   "repository": "https://github.com/ylabs-apps/wp-accessibility-fixer-plugin",
